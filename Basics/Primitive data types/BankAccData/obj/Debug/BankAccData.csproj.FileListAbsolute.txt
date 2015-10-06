@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\BankAccData\bin\Debug\BankAccData.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\BankAccData\bin\Debug\BankAccData.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\BankAccData\bin\Debug\BankAccData.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\BankAccData\obj\Debug\BankAccData.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\BankAccData\obj\Debug\BankAccData.pdb

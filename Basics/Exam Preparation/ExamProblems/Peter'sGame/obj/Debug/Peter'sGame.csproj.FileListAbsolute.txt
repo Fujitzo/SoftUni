@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\Peter'sGame\bin\Debug\Peter'sGame.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\Peter'sGame\bin\Debug\Peter'sGame.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\Peter'sGame\bin\Debug\Peter'sGame.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\Peter'sGame\obj\Debug\Peter'sGame.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\Peter'sGame\obj\Debug\Peter'sGame.pdb

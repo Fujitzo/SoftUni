@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb

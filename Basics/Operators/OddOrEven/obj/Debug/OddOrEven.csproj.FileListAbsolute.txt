@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\OddOrEven\bin\Debug\OddOrEven.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\OddOrEven\bin\Debug\OddOrEven.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\OddOrEven\bin\Debug\OddOrEven.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\OddOrEven\obj\Debug\OddOrEven.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\OddOrEven\obj\Debug\OddOrEven.pdb

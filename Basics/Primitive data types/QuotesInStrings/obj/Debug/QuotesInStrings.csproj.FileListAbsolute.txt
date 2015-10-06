@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

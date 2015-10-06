@@ -1,0 +1,11 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Basics\Console input and output\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Basics\Console input and output\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Basics\Console input and output\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Basics\Console input and output\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Basics\Console input and output\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Basics\Console input and output\FormattingNumbers\obj\Debug\FormattingNumbers.csprojResolveAssemblyReference.cache

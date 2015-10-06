@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravellerBob", "TravellerBob\TravellerBob.csproj", "{BDFB5406-4B94-4B7C-BE3E-52E6AC82DB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyHard", "SpyHard\SpyHard.csproj", "{57E48902-CED7-4803-A142-131534E1BAEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headphones", "Headphones\Headphones.csproj", "{237A885A-6A89-4D51-AEEC-CD3B2FAAF19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFB5406-4B94-4B7C-BE3E-52E6AC82DB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFB5406-4B94-4B7C-BE3E-52E6AC82DB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFB5406-4B94-4B7C-BE3E-52E6AC82DB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFB5406-4B94-4B7C-BE3E-52E6AC82DB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E48902-CED7-4803-A142-131534E1BAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E48902-CED7-4803-A142-131534E1BAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E48902-CED7-4803-A142-131534E1BAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E48902-CED7-4803-A142-131534E1BAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237A885A-6A89-4D51-AEEC-CD3B2FAAF19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237A885A-6A89-4D51-AEEC-CD3B2FAAF19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237A885A-6A89-4D51-AEEC-CD3B2FAAF19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237A885A-6A89-4D51-AEEC-CD3B2FAAF19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

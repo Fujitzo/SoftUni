@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\ExtractBit3\bin\Debug\ExtractBit3.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\ExtractBit3\bin\Debug\ExtractBit3.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\ExtractBit3\obj\Debug\ExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\ExtractBit3\obj\Debug\ExtractBit3.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\ExtractBit3\obj\Debug\ExtractBit3.pdb

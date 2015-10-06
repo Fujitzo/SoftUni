@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\Circle\bin\Debug\Circle.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\Circle\bin\Debug\Circle.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\Circle\bin\Debug\Circle.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\Circle\obj\Debug\Circle.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\Circle\obj\Debug\Circle.pdb

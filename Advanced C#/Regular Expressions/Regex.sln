@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Series of Letters", "Series of Letters\Series of Letters.csproj", "{79347D92-768C-43BA-BADF-D68741E5AC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceTag", "ReplaceTag\ReplaceTag.csproj", "{BC60A0E1-C30E-4A18-BB8C-769366A6E892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractEmails", "ExtractEmails\ExtractEmails.csproj", "{529BE45D-0946-4BF5-A9F4-ACC5C9A715B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79347D92-768C-43BA-BADF-D68741E5AC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79347D92-768C-43BA-BADF-D68741E5AC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79347D92-768C-43BA-BADF-D68741E5AC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79347D92-768C-43BA-BADF-D68741E5AC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC60A0E1-C30E-4A18-BB8C-769366A6E892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC60A0E1-C30E-4A18-BB8C-769366A6E892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC60A0E1-C30E-4A18-BB8C-769366A6E892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC60A0E1-C30E-4A18-BB8C-769366A6E892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529BE45D-0946-4BF5-A9F4-ACC5C9A715B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529BE45D-0946-4BF5-A9F4-ACC5C9A715B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529BE45D-0946-4BF5-A9F4-ACC5C9A715B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529BE45D-0946-4BF5-A9F4-ACC5C9A715B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

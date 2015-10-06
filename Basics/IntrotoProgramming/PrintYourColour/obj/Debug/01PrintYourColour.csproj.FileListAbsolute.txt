@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntrotoProgrammingHomework\01PrintYourColour\bin\Debug\01PrintYourColour.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntrotoProgrammingHomework\01PrintYourColour\bin\Debug\01PrintYourColour.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntrotoProgrammingHomework\01PrintYourColour\bin\Debug\01PrintYourColour.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntrotoProgrammingHomework\01PrintYourColour\obj\Debug\01PrintYourColour.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntrotoProgrammingHomework\01PrintYourColour\obj\Debug\01PrintYourColour.pdb

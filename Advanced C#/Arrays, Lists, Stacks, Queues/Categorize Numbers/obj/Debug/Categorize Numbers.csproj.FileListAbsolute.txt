@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Categorize Numbers\bin\Debug\Categorize Numbers.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Categorize Numbers\bin\Debug\Categorize Numbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Categorize Numbers\bin\Debug\Categorize Numbers.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Categorize Numbers\obj\Debug\Categorize Numbers.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Categorize Numbers\obj\Debug\Categorize Numbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Categorize Numbers\obj\Debug\Categorize Numbers.pdb

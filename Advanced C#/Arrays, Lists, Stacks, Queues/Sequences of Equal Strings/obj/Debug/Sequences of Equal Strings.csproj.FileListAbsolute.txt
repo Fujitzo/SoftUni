@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Sequences of Equal Strings\bin\Debug\Sequences of Equal Strings.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Sequences of Equal Strings\bin\Debug\Sequences of Equal Strings.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Sequences of Equal Strings\bin\Debug\Sequences of Equal Strings.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Sequences of Equal Strings\obj\Debug\Sequences of Equal Strings.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\Sequences of Equal Strings\obj\Debug\Sequences of Equal Strings.pdb

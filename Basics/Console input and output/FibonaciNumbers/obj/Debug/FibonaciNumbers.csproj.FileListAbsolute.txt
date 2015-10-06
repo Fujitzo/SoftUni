@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FibonaciNumbers\bin\Debug\FibonaciNumbers.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FibonaciNumbers\bin\Debug\FibonaciNumbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FibonaciNumbers\bin\Debug\FibonaciNumbers.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FibonaciNumbers\obj\Debug\FibonaciNumbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FibonaciNumbers\obj\Debug\FibonaciNumbers.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\FibonaciNumbers\obj\Debug\FibonaciNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\Reformating\bin\Debug\Reformating.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\Reformating\bin\Debug\Reformating.exe
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\Reformating\bin\Debug\Reformating.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\Reformating\obj\Debug\Reformating.exe
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\Reformating\obj\Debug\Reformating.pdb

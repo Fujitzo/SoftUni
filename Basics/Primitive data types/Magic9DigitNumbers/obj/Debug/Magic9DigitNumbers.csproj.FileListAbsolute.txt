@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\Magic9DigitNumbers\bin\Debug\Magic9DigitNumbers.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\Magic9DigitNumbers\bin\Debug\Magic9DigitNumbers.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\Magic9DigitNumbers\bin\Debug\Magic9DigitNumbers.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\Magic9DigitNumbers\obj\Debug\Magic9DigitNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\Magic9DigitNumbers\obj\Debug\Magic9DigitNumbers.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\Magic9DigitNumbers\obj\Debug\Magic9DigitNumbers.pdb

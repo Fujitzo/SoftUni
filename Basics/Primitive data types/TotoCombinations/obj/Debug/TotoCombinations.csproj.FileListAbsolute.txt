@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\TotoCombinations\bin\Debug\TotoCombinations.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\TotoCombinations\bin\Debug\TotoCombinations.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\TotoCombinations\bin\Debug\TotoCombinations.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\TotoCombinations\obj\Debug\TotoCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\TotoCombinations\obj\Debug\TotoCombinations.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\TotoCombinations\obj\Debug\TotoCombinations.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb

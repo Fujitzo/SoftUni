@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb

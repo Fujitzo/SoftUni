@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\LegoBlocks\bin\Debug\LegoBlocks.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\LegoBlocks\bin\Debug\LegoBlocks.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\LegoBlocks\bin\Debug\LegoBlocks.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\LegoBlocks\obj\Debug\LegoBlocks.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\LegoBlocks\obj\Debug\LegoBlocks.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\LegoBlocks\obj\Debug\LegoBlocks.pdb

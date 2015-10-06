@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\TextBombardment\bin\Debug\TextBombardment.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\TextBombardment\bin\Debug\TextBombardment.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\TextBombardment\bin\Debug\TextBombardment.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\TextBombardment\obj\Debug\TextBombardment.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\TextBombardment\obj\Debug\TextBombardment.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\TextBombardment\obj\Debug\TextBombardment.pdb

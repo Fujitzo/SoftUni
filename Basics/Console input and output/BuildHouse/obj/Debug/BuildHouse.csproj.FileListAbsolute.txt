@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\BuildHouse\bin\Debug\BuildHouse.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\BuildHouse\bin\Debug\BuildHouse.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\BuildHouse\bin\Debug\BuildHouse.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\BuildHouse\obj\Debug\BuildHouse.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\BuildHouse\obj\Debug\BuildHouse.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Console input and output\BuildHouse\obj\Debug\BuildHouse.csprojResolveAssemblyReference.cache

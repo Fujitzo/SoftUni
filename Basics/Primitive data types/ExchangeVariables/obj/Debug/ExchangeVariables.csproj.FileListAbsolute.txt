@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\ExchangeVariables\bin\Debug\ExchangeVariables.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\ExchangeVariables\bin\Debug\ExchangeVariables.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\ExchangeVariables\bin\Debug\ExchangeVariables.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\ExchangeVariables\obj\Debug\ExchangeVariables.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\ExchangeVariables\obj\Debug\ExchangeVariables.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Primitive data types homework\ExchangeVariables\obj\Debug\ExchangeVariables.pdb

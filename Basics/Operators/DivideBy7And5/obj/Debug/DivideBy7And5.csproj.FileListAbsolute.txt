@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

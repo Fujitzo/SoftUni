@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\Diamonds\bin\Debug\Diamonds.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\Diamonds\bin\Debug\Diamonds.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\Diamonds\bin\Debug\Diamonds.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\Diamonds\obj\Debug\Diamonds.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\Diamonds\obj\Debug\Diamonds.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\Diamonds\obj\Debug\Diamonds.pdb

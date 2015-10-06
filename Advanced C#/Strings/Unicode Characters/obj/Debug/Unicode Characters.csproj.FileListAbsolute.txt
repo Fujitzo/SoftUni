@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Unicode Characters\bin\Debug\Unicode Characters.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Unicode Characters\bin\Debug\Unicode Characters.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Unicode Characters\bin\Debug\Unicode Characters.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Unicode Characters\obj\Debug\Unicode Characters.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Unicode Characters\obj\Debug\Unicode Characters.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Unicode Characters\obj\Debug\Unicode Characters.csprojResolveAssemblyReference.cache

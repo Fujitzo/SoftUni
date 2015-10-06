@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\BoolVar\bin\Debug\BoolVar.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\BoolVar\bin\Debug\BoolVar.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\BoolVar\bin\Debug\BoolVar.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\BoolVar\obj\Debug\BoolVar.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\BoolVar\obj\Debug\BoolVar.pdb

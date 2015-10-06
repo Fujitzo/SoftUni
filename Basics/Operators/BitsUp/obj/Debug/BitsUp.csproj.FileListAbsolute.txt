@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsUp\bin\Debug\BitsUp.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsUp\bin\Debug\BitsUp.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsUp\bin\Debug\BitsUp.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsUp\obj\Debug\BitsUp.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsUp\obj\Debug\BitsUp.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsUp\obj\Debug\BitsUp.pdb

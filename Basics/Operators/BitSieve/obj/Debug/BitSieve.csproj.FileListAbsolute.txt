@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitSieve\bin\Debug\BitSieve.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitSieve\bin\Debug\BitSieve.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitSieve\bin\Debug\BitSieve.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitSieve\obj\Debug\BitSieve.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitSieve\obj\Debug\BitSieve.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitSieve\obj\Debug\BitSieve.pdb

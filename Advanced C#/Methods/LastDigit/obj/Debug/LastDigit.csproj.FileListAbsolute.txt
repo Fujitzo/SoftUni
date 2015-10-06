@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Methods\LastDigit\bin\Debug\LastDigit.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Methods\LastDigit\bin\Debug\LastDigit.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Methods\LastDigit\bin\Debug\LastDigit.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Methods\LastDigit\obj\Debug\LastDigit.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Methods\LastDigit\obj\Debug\LastDigit.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Methods\LastDigit\obj\Debug\LastDigit.pdb

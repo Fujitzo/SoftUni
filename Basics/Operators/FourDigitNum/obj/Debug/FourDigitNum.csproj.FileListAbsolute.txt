@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\FourDigitNum\bin\Debug\FourDigitNum.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\FourDigitNum\bin\Debug\FourDigitNum.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\FourDigitNum\bin\Debug\FourDigitNum.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\FourDigitNum\obj\Debug\FourDigitNum.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\FourDigitNum\obj\Debug\FourDigitNum.pdb

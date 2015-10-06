@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Exam19Dec2014\TravellerBob\bin\Debug\TravellerBob.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Exam19Dec2014\TravellerBob\bin\Debug\TravellerBob.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Exam19Dec2014\TravellerBob\bin\Debug\TravellerBob.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Exam19Dec2014\TravellerBob\obj\Debug\TravellerBob.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\Exam19Dec2014\TravellerBob\obj\Debug\TravellerBob.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Exam19Dec2014\TravellerBob\obj\Debug\TravellerBob.pdb

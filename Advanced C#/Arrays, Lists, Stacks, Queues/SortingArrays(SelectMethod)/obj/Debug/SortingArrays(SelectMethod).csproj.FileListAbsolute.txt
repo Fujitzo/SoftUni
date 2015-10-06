@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\SortingArrays(SelectMethod)\bin\Debug\SortingArrays(SelectMethod).exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\SortingArrays(SelectMethod)\bin\Debug\SortingArrays(SelectMethod).exe
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\SortingArrays(SelectMethod)\bin\Debug\SortingArrays(SelectMethod).pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\SortingArrays(SelectMethod)\obj\Debug\SortingArrays(SelectMethod).csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\SortingArrays(SelectMethod)\obj\Debug\SortingArrays(SelectMethod).exe
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\SortingArrays(SelectMethod)\obj\Debug\SortingArrays(SelectMethod).pdb

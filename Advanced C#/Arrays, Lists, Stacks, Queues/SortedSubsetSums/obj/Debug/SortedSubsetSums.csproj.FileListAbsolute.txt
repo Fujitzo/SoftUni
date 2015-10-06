@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\SortedSubsetSums\bin\Debug\SortedSubsetSums.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\SortedSubsetSums\bin\Debug\SortedSubsetSums.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\SortedSubsetSums\bin\Debug\SortedSubsetSums.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\SortedSubsetSums\obj\Debug\SortedSubsetSums.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\SortedSubsetSums\obj\Debug\SortedSubsetSums.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\SortedSubsetSums\obj\Debug\SortedSubsetSums.csprojResolveAssemblyReference.cache

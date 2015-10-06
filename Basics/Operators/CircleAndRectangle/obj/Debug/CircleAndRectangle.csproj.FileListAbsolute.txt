@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\CircleAndRectangle\bin\Debug\CircleAndRectangle.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\CircleAndRectangle\bin\Debug\CircleAndRectangle.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\CircleAndRectangle\bin\Debug\CircleAndRectangle.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\CircleAndRectangle\obj\Debug\CircleAndRectangle.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\CircleAndRectangle\obj\Debug\CircleAndRectangle.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\CircleAndRectangle\obj\Debug\CircleAndRectangle.pdb

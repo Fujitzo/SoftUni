@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsExchange\bin\Debug\BitsExchange.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsExchange\bin\Debug\BitsExchange.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsExchange\bin\Debug\BitsExchange.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsExchange\obj\Debug\BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkOperators\BitsExchange\obj\Debug\BitsExchange.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Reveresed\bin\Debug\Reveresed.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Reveresed\bin\Debug\Reveresed.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Reveresed\bin\Debug\Reveresed.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Reveresed\obj\Debug\Reveresed.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Reveresed\obj\Debug\Reveresed.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Strings\Reveresed\obj\Debug\Reveresed.pdb

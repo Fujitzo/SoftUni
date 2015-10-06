@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Primitive data types homework\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb

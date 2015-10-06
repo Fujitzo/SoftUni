@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\Peter'sGameNew\bin\Debug\Peter'sGameNew.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\Peter'sGameNew\bin\Debug\Peter'sGameNew.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\Peter'sGameNew\bin\Debug\Peter'sGameNew.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\Peter'sGameNew\obj\Debug\Peter'sGameNew.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\Peter'sGameNew\obj\Debug\Peter'sGameNew.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\Peter'sGameNew\obj\Debug\Peter'sGameNew.pdb

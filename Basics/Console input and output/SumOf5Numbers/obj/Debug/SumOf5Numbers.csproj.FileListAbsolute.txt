@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOf5Numbers\obj\Debug\SumOf5Numbers.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb

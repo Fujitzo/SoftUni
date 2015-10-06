@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\CollectTheCoins\bin\Debug\CollectTheCoins.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\CollectTheCoins\bin\Debug\CollectTheCoins.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\CollectTheCoins\bin\Debug\CollectTheCoins.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\CollectTheCoins\obj\Debug\CollectTheCoins.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\CollectTheCoins\obj\Debug\CollectTheCoins.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\CollectTheCoins\obj\Debug\CollectTheCoins.pdb

@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\ShowCurrentDateAndTime\bin\Debug\ShowCurrentDateAndTime.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\ShowCurrentDateAndTime\bin\Debug\ShowCurrentDateAndTime.exe
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\ShowCurrentDateAndTime\bin\Debug\ShowCurrentDateAndTime.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\ShowCurrentDateAndTime\obj\Debug\ShowCurrentDateAndTime.exe
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\ShowCurrentDateAndTime\obj\Debug\ShowCurrentDateAndTime.pdb

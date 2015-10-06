@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\ThridDigitIs7\bin\Debug\ThridDigitIs7.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\ThridDigitIs7\bin\Debug\ThridDigitIs7.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\ThridDigitIs7\bin\Debug\ThridDigitIs7.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\ThridDigitIs7\obj\Debug\ThridDigitIs7.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\ThridDigitIs7\obj\Debug\ThridDigitIs7.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\ThridDigitIs7\obj\Debug\ThridDigitIs7.pdb

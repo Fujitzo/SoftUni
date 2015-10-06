@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb

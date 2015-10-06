@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOfNNumbers\bin\Debug\SumOfNNumbers.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\SumOfNNumbers\obj\Debug\SumOfNNumbers.csprojResolveAssemblyReference.cache

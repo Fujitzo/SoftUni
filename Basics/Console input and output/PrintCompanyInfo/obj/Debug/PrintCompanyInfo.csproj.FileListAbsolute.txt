@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.pdb

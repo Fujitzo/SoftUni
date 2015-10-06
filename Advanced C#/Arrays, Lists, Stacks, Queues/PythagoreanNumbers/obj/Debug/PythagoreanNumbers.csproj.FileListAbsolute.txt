@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Strings and Arrays Homework\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Console input and output\StringsPractice\bin\Debug\StringsPractice.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Console input and output\StringsPractice\bin\Debug\StringsPractice.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Console input and output\StringsPractice\bin\Debug\StringsPractice.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Console input and output\StringsPractice\obj\Debug\StringsPractice.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Console input and output\StringsPractice\obj\Debug\StringsPractice.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Console input and output\StringsPractice\obj\Debug\StringsPractice.csprojResolveAssemblyReference.cache

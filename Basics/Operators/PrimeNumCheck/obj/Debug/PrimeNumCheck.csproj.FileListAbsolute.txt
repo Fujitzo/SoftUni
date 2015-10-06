@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\PrimeNumCheck\bin\Debug\PrimeNumCheck.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\PrimeNumCheck\bin\Debug\PrimeNumCheck.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\PrimeNumCheck\bin\Debug\PrimeNumCheck.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\PrimeNumCheck\obj\Debug\PrimeNumCheck.exe
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkOperators\PrimeNumCheck\obj\Debug\PrimeNumCheck.pdb

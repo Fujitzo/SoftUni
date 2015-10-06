@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\hristo\documents\visual studio 2013\Projects\IntrotoProgrammingHomework\PrintNumbers\obj\Debug\PrintNumbers.pdb

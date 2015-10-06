@@ -1,0 +1,9 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\EncryptTheMessage\bin\Debug\EncryptTheMessage.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\EncryptTheMessage\bin\Debug\EncryptTheMessage.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\EncryptTheMessage\bin\Debug\EncryptTheMessage.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\EncryptTheMessage\obj\Debug\EncryptTheMessage.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\EncryptTheMessage\obj\Debug\EncryptTheMessage.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ExamProblems\EncryptTheMessage\obj\Debug\EncryptTheMessage.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Basics\ExamProblems\EncryptTheMessage\bin\Debug\EncryptTheMessage.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Basics\ExamProblems\EncryptTheMessage\obj\Debug\EncryptTheMessage.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Basics\ExamProblems\EncryptTheMessage\obj\Debug\EncryptTheMessage.pdb

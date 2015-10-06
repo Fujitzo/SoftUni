@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\BookProblem\bin\Debug\BookProblem.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\BookProblem\bin\Debug\BookProblem.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\BookProblem\bin\Debug\BookProblem.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\BookProblem\obj\Debug\Compound Interest.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\BookProblem\obj\Debug\BookProblem.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamProblems\BookProblem\obj\Debug\BookProblem.pdb

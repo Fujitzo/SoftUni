@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Streams and Files\Zipping Sliced Files\bin\Debug\Zipping Sliced Files.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Streams and Files\Zipping Sliced Files\bin\Debug\Zipping Sliced Files.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Streams and Files\Zipping Sliced Files\bin\Debug\Zipping Sliced Files.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Streams and Files\Zipping Sliced Files\obj\Debug\Zipping Sliced Files.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Advanced C#\Streams and Files\Zipping Sliced Files\obj\Debug\Zipping Sliced Files.pdb

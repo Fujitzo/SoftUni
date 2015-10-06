@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\WorkingHours\bin\Debug\WorkingHours.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\WorkingHours\bin\Debug\WorkingHours.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\WorkingHours\bin\Debug\WorkingHours.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\WorkingHours\obj\Debug\WorkingHours.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\WorkingHours\obj\Debug\WorkingHours.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Console input and output\WorkingHours\obj\Debug\WorkingHours.pdb

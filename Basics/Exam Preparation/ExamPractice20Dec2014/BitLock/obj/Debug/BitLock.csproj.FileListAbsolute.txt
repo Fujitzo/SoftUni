@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\BitLock\bin\Debug\BitLock.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\BitLock\bin\Debug\BitLock.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\BitLock\bin\Debug\BitLock.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\BitLock\obj\Debug\BitLock.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\BitLock\obj\Debug\BitLock.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\BitLock\obj\Debug\BitLock.pdb

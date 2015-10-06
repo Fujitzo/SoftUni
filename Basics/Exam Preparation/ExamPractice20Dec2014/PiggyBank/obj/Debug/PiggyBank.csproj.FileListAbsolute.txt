@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\PiggyBank\bin\Debug\PiggyBank.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\PiggyBank\bin\Debug\PiggyBank.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\PiggyBank\bin\Debug\PiggyBank.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\PiggyBank\obj\Debug\PiggyBank.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\PiggyBank\obj\Debug\PiggyBank.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ExamPractice20Dec2014\PiggyBank\obj\Debug\PiggyBank.pdb

@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\LongestSeqDemo1\bin\Debug\LongestSeqDemo1.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\LongestSeqDemo1\bin\Debug\LongestSeqDemo1.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\LongestSeqDemo1\bin\Debug\LongestSeqDemo1.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\LongestSeqDemo1\obj\Debug\LongestSeqDemo1.exe
+c:\users\hristo\documents\visual studio 2013\Projects\Strings and Arrays Homework\LongestSeqDemo1\obj\Debug\LongestSeqDemo1.pdb
