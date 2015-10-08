@@ -1,0 +1,16 @@
+<<<<<<< .mine
+Daniel - 2300
+Master - 900
+HristoH - 700
+dsa - 300
+Borko9696 - 200
+Martin - 100
+||||||| .r17
+Daniel - 2300
+Master - 900
+Borko9696 - 200
+Martin - 100
+=======
+bobi - 700
+BobiTest - 200
+>>>>>>> .r20
