@@ -15,7 +15,11 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
     private Thread thread;
 
     public static Player player;
+    public static int startX = 32; // later change for every level ??
+    public static int startY = 32;
+
     public static Level level;
+    public static Sprites sprites;
 
     public Pacman(){
         Dimension dimension = new Dimension(Pacman.width, Pacman.height);
@@ -24,8 +28,9 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
         setMaximumSize(dimension);
 
         addKeyListener(this);
-        player = new Player(Pacman.width/2 , Pacman.height/2);
-        level = new Level("map.png");
+        player = new Player(startX, startY);
+        level = new Level("/resources/map.png"); //made a resources folder for png files
+        sprites = new Sprites("/resources/sprites.png");
 
     }
 
@@ -81,7 +86,7 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
         long lastTime = System.nanoTime();
         double delta = 0;
         double targetTick = 60.0;
-        double ns = 1000000000/targetTick;
+        double ns = 1_000_000_000 / targetTick;
 
         while(isRunning){
             long now = System.nanoTime();
@@ -95,7 +100,8 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
                 delta--;
             }
             if(System.currentTimeMillis() - timer >= 1000){
-                System.out.println(fps);
+                //System.out.println(fps+" "+player.isBuffed);
+
                 fps = 0;
                 timer += 1000;
             }
@@ -129,6 +135,8 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
         if(e.getKeyCode()==KeyEvent.VK_LEFT) player.left = true;
         if(e.getKeyCode()==KeyEvent.VK_UP) player.up = true;
         if(e.getKeyCode()==KeyEvent.VK_DOWN) player.down = true;
+        //if(e.getKeyCode() == KeyEvent.VK_X) player.isBuffed = true;// toggles player buffed status on for testing purposes
+
     }
 
     @Override
@@ -137,5 +145,6 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
         if(e.getKeyCode()==KeyEvent.VK_LEFT) player.left = false;
         if(e.getKeyCode()==KeyEvent.VK_UP) player.up = false;
         if(e.getKeyCode()==KeyEvent.VK_DOWN) player.down = false;
+
     }
 }

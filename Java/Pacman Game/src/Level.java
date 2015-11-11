@@ -34,11 +34,13 @@ public class Level {
                         //drawing the wall tiles
                         tiles[xx][yy] = new Tile(xx*32, yy*32);
                     }
+                    /*
                     else if(val ==0xFFFFFF00){
                         //drawing PacMan
                         Pacman.player.x = xx*32;
                         Pacman.player.y = yy*32;
                     }
+                    */
                     else if(val ==0xFFFF0000){
                         //drawing Ghosts
                         enemies.add(new Enemy(xx*32,yy*32));
