@@ -3,7 +3,7 @@ import java.awt.*;
 public class Player extends Rectangle {
 
     public boolean right, left, up, down = false;
-    private int speed = 2; //changed for testing purposes
+    private int speed = 4; //changed for testing purposes
     public boolean isBuffed = false;
     public int spriteCol = 0;
     public int spriteRow = 0;
@@ -11,8 +11,11 @@ public class Player extends Rectangle {
     private int spriteSpeed = 10;
     private int spriteTravelled = 0;
 
+
+
     public Player(int x, int y) {
-        setBounds(x,y,32,32);
+        setBounds(x,y,32-2,32-2);     //Experimenting with this setting. Pacman turns more easily but overlaps with the walls..
+        //setBounds(x,y,32,32);
 
 
     }
@@ -45,15 +48,35 @@ public class Player extends Rectangle {
         for (int i = 0; i < level.apples.size(); i++) {
              if (this.intersects(level.apples.get(i))){
                  level.apples.remove(i);
+                 Pacman.dotsEaten++;
                  break;
              }
-            
+        }
+        // check if we collide with a ghost => lives-- :) . Also we return Pacman in the start position,
+        // because otherwise he intersects many times with the ghost and a lot of lives are lost (Pacman is 32x32 and ghost is 32x32 pixels)
+        for (int i = 0; i < level.enemies.size(); i++) {
+            if (this.intersects(level.enemies.get(i))){
+                Pacman.player = new Player(Pacman.startX, Pacman.startY);
+                Pacman.lives--;
+                break;
+            }
+        }
+        if (Pacman.lives ==0){
+            Pacman.STATE = Pacman.GAME_OVER;
         }
 
+
         if (level.apples.size() == 0){
+            Pacman.levelCounter++;
             Pacman.player = new Player(Pacman.startX, Pacman.startY);
-            Pacman.level = new Level("/resources/map.png"); // TO DO load next level
-            return;
+            try{
+                Pacman.level = new Level("/resources/map"+Integer.toString(Pacman.levelCounter)+".png"); // Load next level
+            }
+            catch (Exception e){
+                Pacman.STATE = Pacman.VICTORY;
+            }
+
+            //return;
         }
 
         if (playerMoves){
@@ -68,7 +91,8 @@ public class Player extends Rectangle {
     }
 
     private boolean canMove(int nextX, int nextY){
-        Rectangle bounds = new Rectangle(nextX, nextY, width, height);
+        //Rectangle bounds = new Rectangle(nextX, nextY, width, height);
+        Rectangle bounds = new Rectangle(nextX, nextY, width-2, height-2);//Again experimenting with the "bounds"
         Level level = Pacman.level;
 
         for(int xx =0; xx<level.tiles.length; xx++){

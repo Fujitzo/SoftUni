@@ -149,17 +149,17 @@ public class Enemy extends Rectangle{
         Rectangle bounds = new Rectangle(nextX, nextY, width, height);
         Level level = Pacman.level;
 
-        for(int xx =0; xx<level.tiles.length; xx++){
-            for(int yy =0; yy<level.tiles[0].length; yy++){
-                if(level.tiles[xx][yy]!= null){
-                    if(bounds.intersects(level.tiles[xx][yy])){
-                        return false;
+            for(int xx =0; xx<level.tiles.length; xx++){
+                for(int yy =0; yy<level.tiles[0].length; yy++){
+                    if(level.tiles[xx][yy]!= null){
+                        if(bounds.intersects(level.tiles[xx][yy])){
+                            return false;
+                        }
                     }
                 }
             }
-        }
 
-        return true;
+            return true;
     }
 
 }
