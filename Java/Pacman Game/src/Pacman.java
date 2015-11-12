@@ -24,6 +24,10 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
     public static int levelCounter = 1;
     public static int lives = 5;
     public static int dotsEaten = 0;
+    public static int ghostsEaten = 0;
+
+    public static boolean areEatable = false;
+
 
     public static final int START = 0, PAUSED = 1, RUNNING = 2, GAME_OVER = 3, VICTORY = 4;
     public static int STATE = -1;
@@ -93,10 +97,12 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
             graphics.fillRect(x, y, boxWidth, boxHeight);
 
             graphics.setColor(Color.white);
+            graphics.setFont(new Font(Font.DIALOG, Font.BOLD, 40));
+            graphics.drawString("PACMAN", x+150, y + 40);
             graphics.setFont(new Font(Font.DIALOG, Font.BOLD, 20));
-            graphics.drawString("Pres Enter to start the game", x, y + 20);
-            graphics.drawString("Pres Space to pause the game", x, y + 50);
-            graphics.drawString("You have 5 lives total. Make them worth!", x, y + 80);
+            graphics.drawString("Pres Enter to start the game", x, y + 70);
+            graphics.drawString("Pres Space to pause the game", x, y + 100);
+            graphics.drawString("You have 5 lives total. Make them worth!", x, y + 130);
 
         } else if (STATE == PAUSED) {
             int boxWidth = 500;
@@ -111,6 +117,7 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
             graphics.drawString("Pres Space again to resume the game", x, y + 20);
             graphics.drawString(Integer.toString(lives) + " lives left!", x, y + 50);
             graphics.drawString(Integer.toString(dotsEaten) + " dots eaten", x, y + 80);
+            graphics.drawString(Integer.toString(ghostsEaten) + " ghosts eaten", x, y + 110);
 
         } else if (STATE == GAME_OVER) {
             int boxWidth = 500;
@@ -124,8 +131,9 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
             graphics.setFont(new Font(Font.DIALOG, Font.BOLD, 20));
             graphics.drawString("Game Over!", x, y + 20);
             graphics.drawString(Integer.toString(dotsEaten) + " dots eaten", x, y + 50);
-            //graphics.drawString("To play again press Enter", x,y+80);
-            graphics.drawString("To close the game press escape", x, y + 110);
+            graphics.drawString(Integer.toString(ghostsEaten) + " ghosts eaten", x, y + 80);
+            graphics.drawString("To play again press Enter", x,y+110);
+            graphics.drawString("To close the game press escape", x, y + 140);
 
 
         } else if (STATE == VICTORY) {
@@ -140,8 +148,9 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
             graphics.setFont(new Font(Font.DIALOG, Font.BOLD, 20));
             graphics.drawString("Congratulations you win!", x, y + 20);
             graphics.drawString(Integer.toString(dotsEaten) + " dots eaten", x, y + 50);
-            //graphics.drawString("To play again press Enter", x,y+80);
-            graphics.drawString("To close the game press escape", x, y + 110);
+            graphics.drawString(Integer.toString(ghostsEaten) + " ghosts eaten", x, y + 80);
+            graphics.drawString("To play again press Enter", x,y+110);
+            graphics.drawString("To close the game press Escape", x, y + 140);
 
 
         }
@@ -155,8 +164,7 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
         requestFocus();
 
         int fps = 0;
-        double timer = System.currentTimeMillis();
-
+        long timer = System.currentTimeMillis();
         long lastTime = System.nanoTime();
         double delta = 0;
         double targetTick = 60.0;
@@ -206,61 +214,61 @@ public class Pacman extends Canvas implements Runnable, KeyListener {
 
     @Override
     public void keyPressed(KeyEvent e) {
-        if (STATE == RUNNING) {
-            if (e.getKeyCode() == KeyEvent.VK_RIGHT) player.right = true;
-            if (e.getKeyCode() == KeyEvent.VK_LEFT) player.left = true;
-            if (e.getKeyCode() == KeyEvent.VK_UP) player.up = true;
-            if (e.getKeyCode() == KeyEvent.VK_DOWN) player.down = true;
-            if (e.getKeyCode() == KeyEvent.VK_X)
-                player.isBuffed = true;// toggles player buffed status on for testing purposes
-            if (e.getKeyCode() == KeyEvent.VK_Z)
-                player.isBuffed = false; // Added button for going back to the original state
-            if (e.getKeyCode() == KeyEvent.VK_SPACE) {
-                STATE = PAUSED;
-            }
-        }
-        if (STATE == START) {
-            if (e.getKeyCode() == KeyEvent.VK_ENTER) {
-                STATE = RUNNING;
-            }
-        }
-        if (STATE == PAUSED) {
-            //isRunning = false;
-            if (e.getKeyCode() == KeyEvent.VK_SPACE) {
-               // isRunning=true;
-                STATE = RUNNING;
-            }
-        }
-        if (STATE == GAME_OVER) {
-            if (e.getKeyCode() == KeyEvent.VK_ENTER) {
-                player = new Player(startX, startY);
-                level = new Level("/resources/map.png");
-                STATE = START;
-                dotsEaten=0;
-                lives=5;
-                levelCounter=1;
-            }
-            if (e.getKeyCode() == KeyEvent.VK_ESCAPE) {
-                System.exit(0);
-            }
+        switch (STATE){
+            case RUNNING :
+                if (e.getKeyCode() == KeyEvent.VK_RIGHT) player.right = true;
+                if (e.getKeyCode() == KeyEvent.VK_LEFT) player.left = true;
+                if (e.getKeyCode() == KeyEvent.VK_UP) player.up = true;
+                if (e.getKeyCode() == KeyEvent.VK_DOWN) player.down = true;
+                if (e.getKeyCode() == KeyEvent.VK_X)
+                    player.isBuffed = true;// toggles player buffed status on for testing purposes
+                if (e.getKeyCode() == KeyEvent.VK_Z)
+                    player.isBuffed = false; // Added button for going back to the original state
+                if (e.getKeyCode() == KeyEvent.VK_SPACE) {
+                    STATE = PAUSED;
+                }
+                break;
+            case START :
+                if (e.getKeyCode() == KeyEvent.VK_ENTER) {
+                    STATE = RUNNING;
+                }
+                break;
+            case PAUSED :
+                //isRunning = false;
+                if (e.getKeyCode() == KeyEvent.VK_SPACE) {
+                    // isRunning=true;
+                    STATE = RUNNING;
+                }
+                break;
+            case GAME_OVER :
+                if (e.getKeyCode() == KeyEvent.VK_ENTER) {
+                    player = new Player(startX, startY);
+                    level = new Level("/resources/map.png");
+                    STATE = START;
+                    dotsEaten=0;
+                    lives=5;
+                    levelCounter=1;
+                }
+                if (e.getKeyCode() == KeyEvent.VK_ESCAPE) {
+                    System.exit(0);
+                }
+                break;
+            case VICTORY :
+                if (e.getKeyCode() == KeyEvent.VK_ENTER) {
+                    player = new Player(startX, startY);
+                    level = new Level("/resources/map.png");
+                    STATE = START;
+                    dotsEaten=0;
+                    lives=5;
+                    levelCounter=1;
 
-
-        }
-        if (STATE == VICTORY) {
-            if (e.getKeyCode() == KeyEvent.VK_ENTER) {
-                player = new Player(startX, startY);
-                level = new Level("/resources/map.png");
-                STATE = START;
-                dotsEaten=0;
-                lives=5;
-                levelCounter=1;
-
-            }
-            if (e.getKeyCode() == KeyEvent.VK_ESCAPE) {
-                System.exit(0);
-            }
-
-
+                }
+                if (e.getKeyCode() == KeyEvent.VK_ESCAPE) {
+                    System.exit(0);
+                }
+                break;
+            default:
+                break;
         }
     }
 

@@ -5,6 +5,9 @@ public class Player extends Rectangle {
     public boolean right, left, up, down = false;
     private int speed = 4; //changed for testing purposes
     public boolean isBuffed = false;
+    public long startTimer = 0;
+    public long endTimer = 0;
+
     public int spriteCol = 0;
     public int spriteRow = 0;
     public boolean playerMoves = false;
@@ -21,6 +24,9 @@ public class Player extends Rectangle {
     }
     public void tick(){
         playerMoves = false;
+        if(System.currentTimeMillis() > startTimer + 3000){
+            Pacman.areEatable = false;
+        }
 
         if(right && canMove(x+speed, y)){
             x += speed;
@@ -56,18 +62,43 @@ public class Player extends Rectangle {
         // because otherwise he intersects many times with the ghost and a lot of lives are lost (Pacman is 32x32 and ghost is 32x32 pixels)
         for (int i = 0; i < level.enemies.size(); i++) {
             if (this.intersects(level.enemies.get(i))){
-                Pacman.player = new Player(Pacman.startX, Pacman.startY);
-                Pacman.lives--;
-                break;
+                if(!Pacman.areEatable){
+                    Pacman.player = new Player(Pacman.startX, Pacman.startY);
+                    Pacman.lives--;
+                    break;
+                }
+
             }
         }
         if (Pacman.lives ==0){
             Pacman.STATE = Pacman.GAME_OVER;
         }
 
+        //Eating ghosts
+
+        for (int i = 0; i < level.ghostEaters.size(); i++) {
+            if (this.intersects(level.ghostEaters.get(i))){
+                level.ghostEaters.remove(i);
+                Pacman.areEatable = true;
+                startTimer = System.currentTimeMillis();
+                break;
+            }
+        }
+
+
+        if(Pacman.areEatable){
+            for (int i = 0; i < level.enemies.size(); i++) {
+                if (this.intersects(level.enemies.get(i))){
+                    level.enemies.remove(i);
+                    Pacman.ghostsEaten++;
+                    break;
+                }
+            }
+        }
 
         if (level.apples.size() == 0){
             Pacman.levelCounter++;
+            Pacman.areEatable = false;
             Pacman.player = new Player(Pacman.startX, Pacman.startY);
             try{
                 Pacman.level = new Level("/resources/map"+Integer.toString(Pacman.levelCounter)+".png"); // Load next level
@@ -75,8 +106,6 @@ public class Player extends Rectangle {
             catch (Exception e){
                 Pacman.STATE = Pacman.VICTORY;
             }
-
-            //return;
         }
 
         if (playerMoves){
@@ -85,10 +114,10 @@ public class Player extends Rectangle {
         if (spriteTravelled >= spriteSpeed){
             spriteTravelled = 0;
             spriteCol++;
-
         }
         
     }
+    // Collision detection with the walls
 
     private boolean canMove(int nextX, int nextY){
         //Rectangle bounds = new Rectangle(nextX, nextY, width, height);
@@ -112,7 +141,8 @@ public class Player extends Rectangle {
     public void render(Graphics graphics){
 
         Sprites sprites = Pacman.sprites;
-        graphics.drawImage(sprites.getSprite(10 + (spriteCol % 2), 0 + (spriteRow)),x, y, null); //sprite coords to be tied to movement direction TO DO
+        //sprite coordinates tied to movement direction
+        graphics.drawImage(sprites.getSprite(10 + (spriteCol % 2), 0 + (spriteRow)),x, y, null);
 
     }
 

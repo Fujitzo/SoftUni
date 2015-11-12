@@ -134,7 +134,6 @@ public class Enemy extends Rectangle{
                         dir = rand.nextInt(4);
                     }
                 }
-
             }
         }
 
@@ -142,7 +141,13 @@ public class Enemy extends Rectangle{
 
     public void render (Graphics graphics) {
         Sprites sprites = Pacman.sprites;
-        graphics.drawImage(sprites.getSprite(0,0),x, y, null);
+        if(Pacman.areEatable){
+            graphics.drawImage(sprites.getSprite(9, 0),x, y, null);
+        }
+        else{
+            graphics.drawImage(sprites.getSprite(0,0),x, y, null);
+        }
+
     }
 
     private boolean canMove(int nextX, int nextY){

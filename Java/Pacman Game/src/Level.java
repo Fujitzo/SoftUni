@@ -11,13 +11,16 @@ public class Level {
     public int width;
 
     public Tile[][] tiles;
+    public List<GhostEater> ghostEaters;
     public List<Apple> apples;
     public List<Enemy> enemies;
+
 
 
     public Level (String path){
         apples = new ArrayList<Apple>();
         enemies = new ArrayList<Enemy>();
+        ghostEaters = new ArrayList<GhostEater>();
 
         try {
             BufferedImage map = ImageIO.read(getClass().getResource(path));
@@ -45,6 +48,10 @@ public class Level {
                         //drawing Ghosts
                         enemies.add(new Enemy(xx*32,yy*32));
                     }
+                    else if(val ==0xFF0000FF){
+                        //drawing Ghost Eater
+                        ghostEaters.add(new GhostEater(xx*32, yy*32));
+                    }
                     else{
                         //drawing Food
                         apples.add(new Apple(xx*32, yy*32));
@@ -70,6 +77,9 @@ public class Level {
         }
         for(int i = 0; i< enemies.size(); i++){
             enemies.get(i).render(graphics);
+        }
+        for(int i = 0; i< ghostEaters.size(); i++){
+            ghostEaters.get(i).render(graphics);
         }
 
     }
