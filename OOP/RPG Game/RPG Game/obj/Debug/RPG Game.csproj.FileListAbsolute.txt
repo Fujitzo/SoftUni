@@ -1,0 +1,10 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\bin\Debug\RPG Game.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\obj\Debug\RPG Game.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\obj\Debug\RPG_Game.Form1.resources
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\obj\Debug\RPG_Game.Properties.Resources.resources
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\obj\Debug\RPG Game.csproj.GenerateResource.Cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\bin\Debug\RPG Game.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\bin\Debug\RPG Game.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\obj\Debug\RPG Game.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\obj\Debug\RPG Game.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\OOP\RPGGame\RPG Game\obj\Debug\RPG_Game.CombatGUI.resources
