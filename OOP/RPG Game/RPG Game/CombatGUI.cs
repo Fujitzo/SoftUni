@@ -37,6 +37,7 @@ namespace RPG_Game
 
         public void StartCombat(PlayerParty playerParty, CombatPartyMember enemy)
         {
+          
             enemyMember = enemy;
             playerPartyMembers.Add(playerParty.member1);
             inCombat = true;
@@ -123,6 +124,7 @@ namespace RPG_Game
                         playerTurn = false;
                         enemyAttackTimer.Enabled = true;
                     }
+                  
                 }
 
                 //Exit battle if enemy is dead
@@ -180,6 +182,16 @@ namespace RPG_Game
         private void SleepTick(object sender, EventArgs e)
         {
             //systemSleepTimer.Enabled = false;
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CombatGUI_Load(object sender, EventArgs e)
+        {
+           
         }
     }
 }

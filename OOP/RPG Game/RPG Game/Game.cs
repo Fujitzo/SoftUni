@@ -64,6 +64,7 @@ namespace RPG_Game
                 if (e.KeyCode == Keys.Left)
                 {
                     p = new Point(-40, 0);
+                   
                     //playerParty.partySprite.Move(-1, 0);
                 }
                 if (e.KeyCode == Keys.Right)

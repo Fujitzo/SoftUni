@@ -67,6 +67,7 @@
             this.checkBox2.TabIndex = 1;
             this.checkBox2.Text = "checkBox2";
             this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
             // 
             // partyActionSkill
             // 
@@ -163,6 +164,7 @@
             this.Controls.Add(this.partyActionAttack);
             this.Name = "CombatGUI";
             this.Text = "CombatGUI";
+            this.Load += new System.EventHandler(this.CombatGUI_Load);
             ((System.ComponentModel.ISupportInitialize)(this.Party1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Enemy1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
