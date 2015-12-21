@@ -23,12 +23,21 @@ namespace RPG_Game
             this.AttackPower = attackPower;
             this.Img = img;
 
-            Skill s = new Skill();
-            s.damagePerTurn = 2;
-            s.initialDamage = 3;
-            s.duration = 1;
-            s.name = "Bleed";
-            skills.Add(s);
+            Skill bleed = new Skill();
+            bleed.damagePerTurn = 2;
+            bleed.healAmmount = 0;
+            bleed.initialDamage = 3;
+            bleed.duration = 1;
+            bleed.name = "Bleed";
+            skills.Add(bleed);
+
+            Skill heal = new Skill();
+            heal.damagePerTurn = 0;
+            heal.healAmmount = 3;
+            heal.initialDamage = 3;
+            heal.duration = 1;
+            heal.name = "Life Steal";
+            skills.Add(heal);
 
         }
 

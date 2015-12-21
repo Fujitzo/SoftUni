@@ -64,9 +64,18 @@ namespace RPG_Game
 
         void ApplySkillDamage()
         {
+            
             for (int x = 0; x < activeSkills.Count; x++)
             {
                 var a = activeSkills[x];
+                if (a.skill.name== "Life Steal")
+                {
+                    foreach (var item in playerPartyMembers)
+                    {
+                        item.Health = item.Health + a.skill.healAmmount;
+                        OutputFlavourText(a.skill.name + " restored " + a.skill.healAmmount + " health!");
+                    }
+                }
                 a.target.Health -= a.skill.damagePerTurn;
                 a.remainingTurns--;
 

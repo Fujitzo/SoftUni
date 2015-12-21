@@ -12,6 +12,7 @@ namespace RPG_Game
         public int damagePerTurn;
         public int duration;
         public string name;
+        public int healAmmount;
 
     }
 }
