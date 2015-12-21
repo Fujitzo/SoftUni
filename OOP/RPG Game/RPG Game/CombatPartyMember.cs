@@ -31,13 +31,13 @@ namespace RPG_Game
             bleed.name = "Bleed";
             skills.Add(bleed);
 
-            Skill heal = new Skill();
-            heal.damagePerTurn = 0;
-            heal.healAmmount = 3;
-            heal.initialDamage = 3;
-            heal.duration = 1;
-            heal.name = "Life Steal";
-            skills.Add(heal);
+            Skill lifeSteal = new Skill();
+            lifeSteal.damagePerTurn = 0;
+            lifeSteal.healAmmount = 3;
+            lifeSteal.initialDamage = 3;
+            lifeSteal.duration = 1;
+            lifeSteal.name = "Life Steal";
+            skills.Add(lifeSteal);
 
         }
 
