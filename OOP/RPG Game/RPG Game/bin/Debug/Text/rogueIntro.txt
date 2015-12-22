@@ -1,0 +1,9 @@
+Hi! I heard you're gathering volunteers to join
+your team in your mission against the Begemoths
+I'll be glad to be of service! What do you think ?
+[Rogue added to the party]
+!REMV
+!NEWP
+5
+15
+PlayerRogueCombatSprite.png

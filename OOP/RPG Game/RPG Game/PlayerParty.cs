@@ -13,12 +13,22 @@ namespace RPG_Game
     {
         public WorldMapSprite partySprite;
         public CombatPartyMember member1;
+        public CombatPartyMember member2 { get; set; }
 
         public PlayerParty(Point location, Image image, int id, CombatPartyMember member1) 
         {
             partySprite = new WorldMapSprite(location, image, id);
-            this.member1 = member1;
+            this.member1 = member1;            
         }
 
+        public PlayerParty(Point location, Image image, int id, CombatPartyMember member1, CombatPartyMember member2)
+        {
+            partySprite = new WorldMapSprite(location, image, id);
+            this.member1 = member1;
+            this.member2 = member2;
+        }
+
+
+        
     }
 }

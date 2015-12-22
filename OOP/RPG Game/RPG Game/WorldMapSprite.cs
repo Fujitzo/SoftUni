@@ -14,6 +14,7 @@ namespace RPG_Game
         public Point location;
         public Image image;
         public int id;
+        public string textFileName = "";
 
         public WorldMapSprite(Point location, Image image, int id)
         {
@@ -25,6 +26,7 @@ namespace RPG_Game
         public Point Location { get; set; }
         public Image Image { get; set; }
         public int ID { get; set; }
+        public string TextFileName { get; set; }
 
         public void Move(int x, int y)
         {

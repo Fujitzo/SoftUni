@@ -39,10 +39,13 @@ namespace RPG_Game
         {
           
             enemyMember = enemy;
+            
             playerPartyMembers.Add(playerParty.member1);
+            playerPartyMembers.Add(playerParty.member2);
             inCombat = true;
 
             Party1.Image = playerPartyMembers[0].Img;
+            Party2.Image = playerPartyMembers[1].Img;
             Enemy1.Image = enemyMember.Img;
             LoadSkillsForPlayer();
         }

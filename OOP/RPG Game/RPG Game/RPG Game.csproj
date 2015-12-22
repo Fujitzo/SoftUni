@@ -63,7 +63,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Skill.cs" />
+    <Compile Include="TextBoxrRader.cs" />
     <Compile Include="WorldMap.cs" />
+    <Compile Include="WorldMapFriends.cs" />
     <Compile Include="WorldMapMonster.cs" />
     <Compile Include="WorldMapSprite.cs" />
     <EmbeddedResource Include="CombatGUI.resx">

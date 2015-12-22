@@ -38,13 +38,13 @@
             this.Party1 = new System.Windows.Forms.PictureBox();
             this.Enemy1 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.Party2 = new System.Windows.Forms.PictureBox();
             this.enemyAttackTimer = new System.Windows.Forms.Timer(this.components);
             this.systemSleepTimer = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.Party1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Enemy1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Party2)).BeginInit();
             this.SuspendLayout();
             // 
             // partyActionAttack
@@ -130,13 +130,13 @@
             this.pictureBox3.TabIndex = 8;
             this.pictureBox3.TabStop = false;
             // 
-            // pictureBox4
+            // Party2
             // 
-            this.pictureBox4.Location = new System.Drawing.Point(133, 107);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox4.TabIndex = 9;
-            this.pictureBox4.TabStop = false;
+            this.Party2.Location = new System.Drawing.Point(133, 107);
+            this.Party2.Name = "Party2";
+            this.Party2.Size = new System.Drawing.Size(100, 50);
+            this.Party2.TabIndex = 9;
+            this.Party2.TabStop = false;
             // 
             // enemyAttackTimer
             // 
@@ -152,7 +152,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(713, 431);
-            this.Controls.Add(this.pictureBox4);
+            this.Controls.Add(this.Party2);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.Enemy1);
             this.Controls.Add(this.Party1);
@@ -168,7 +168,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.Party1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Enemy1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Party2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -185,7 +185,7 @@
         private System.Windows.Forms.PictureBox Party1;
         private System.Windows.Forms.PictureBox Enemy1;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.PictureBox Party2;
         private System.Windows.Forms.Timer enemyAttackTimer;
         private System.Windows.Forms.Timer systemSleepTimer;
     }
