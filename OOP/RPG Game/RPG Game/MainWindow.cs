@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace RPG_Game
 {
-    public partial class Form1 : Form
+    public partial class MainWindow : Form
     {
 
         Game game;
-        public Form1()
+        public MainWindow()
         {
             InitializeComponent();
             game = new Game(this);

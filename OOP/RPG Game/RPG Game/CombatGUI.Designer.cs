@@ -89,7 +89,7 @@
             // 
             // textBox
             // 
-            this.textBox.Location = new System.Drawing.Point(174, 268);
+            this.textBox.Location = new System.Drawing.Point(174, 331);
             this.textBox.Multiline = true;
             this.textBox.Name = "textBox";
             this.textBox.Size = new System.Drawing.Size(455, 82);
@@ -98,7 +98,7 @@
             // 
             // attackButton
             // 
-            this.attackButton.Location = new System.Drawing.Point(288, 371);
+            this.attackButton.Location = new System.Drawing.Point(288, 433);
             this.attackButton.Name = "attackButton";
             this.attackButton.Size = new System.Drawing.Size(225, 48);
             this.attackButton.TabIndex = 5;
@@ -108,33 +108,33 @@
             // 
             // Party1
             // 
-            this.Party1.Location = new System.Drawing.Point(33, 28);
+            this.Party1.Location = new System.Drawing.Point(12, 12);
             this.Party1.Name = "Party1";
-            this.Party1.Size = new System.Drawing.Size(100, 50);
+            this.Party1.Size = new System.Drawing.Size(156, 127);
             this.Party1.TabIndex = 6;
             this.Party1.TabStop = false;
             // 
             // Enemy1
             // 
-            this.Enemy1.Location = new System.Drawing.Point(528, 27);
+            this.Enemy1.Location = new System.Drawing.Point(483, 12);
             this.Enemy1.Name = "Enemy1";
-            this.Enemy1.Size = new System.Drawing.Size(100, 50);
+            this.Enemy1.Size = new System.Drawing.Size(242, 169);
             this.Enemy1.TabIndex = 7;
             this.Enemy1.TabStop = false;
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Location = new System.Drawing.Point(528, 107);
+            this.pictureBox3.Location = new System.Drawing.Point(615, 194);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(100, 50);
+            this.pictureBox3.Size = new System.Drawing.Size(162, 98);
             this.pictureBox3.TabIndex = 8;
             this.pictureBox3.TabStop = false;
             // 
             // Party2
             // 
-            this.Party2.Location = new System.Drawing.Point(133, 107);
+            this.Party2.Location = new System.Drawing.Point(174, 124);
             this.Party2.Name = "Party2";
-            this.Party2.Size = new System.Drawing.Size(100, 50);
+            this.Party2.Size = new System.Drawing.Size(182, 120);
             this.Party2.TabIndex = 9;
             this.Party2.TabStop = false;
             // 
@@ -151,7 +151,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(713, 431);
+            this.ClientSize = new System.Drawing.Size(817, 508);
             this.Controls.Add(this.Party2);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.Enemy1);

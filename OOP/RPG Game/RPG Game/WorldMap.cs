@@ -28,7 +28,7 @@ namespace RPG_Game
         public WorldMap(Form form)
         { 
             mapTiles = new List<Tile>();
-            LoadMap("Map");
+            LoadMap(@"Maps\Map");
                  
         }
         public void LoadMap(string mapName)
@@ -44,12 +44,27 @@ namespace RPG_Game
                     t.location = new Point(x * 40, y * 40);
                     if(line[x].Equals('1'))
                     {
-                        t.img = new Bitmap("GrassTile.png");
+                        t.img = new Bitmap(@"Tiles\GrassTile.png");
                         t.canStepOn = true;
                     }
                     if(line[x].Equals('0'))
                     {
-                        t.img = new Bitmap("WaterTile.png");
+                        t.img = new Bitmap(@"Tiles\WaterTile.png");
+                        t.canStepOn = false;
+                    }
+                    if (line[x].Equals('2'))
+                    {
+                        t.img = new Bitmap(@"Tiles\PathTile.png");
+                        t.canStepOn = true;
+                    }
+                    if (line[x].Equals('3'))
+                    {
+                        t.img = new Bitmap(@"Tiles\TreeTile.png");
+                        t.canStepOn = false;
+                    }
+                    if (line[x].Equals('4'))
+                    {
+                        t.img = new Bitmap(@"Tiles\StoneTile.png");
                         t.canStepOn = false;
                     }
                     mapTiles.Add(t);

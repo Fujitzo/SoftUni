@@ -23,7 +23,7 @@ namespace RPG_Game
         List<WorldMapSprite> friendlyHeroes;
         WorldMapMonster monsterInCombat;
         //List<WorldMapFriend> friends;
-        WorldMapFriend friendsInCombat;
+        //WorldMapFriend friendsInCombat;
         TextBoxReader textBoxReader;
 
         bool inCombat;
@@ -45,13 +45,16 @@ namespace RPG_Game
             Bitmap bmp = new Bitmap("PlayerPartySprite.png");
             Bitmap bmpMon = new Bitmap("MonsterSprite.png");
 
-            playerParty = new PlayerParty(new Point(80, 80), bmp, 1, new CombatPartyMember(10, 5, new Bitmap("PlayerPartySprite.png")));
+            playerParty = new PlayerParty(new Point(160, 520), bmp, 1, new CombatPartyMember(50, 5, new Bitmap("WarriorHeroSprite.png")));
 
             monsters = new List<WorldMapMonster>();         
-            monsters.Add(new WorldMapMonster(new Point(0,0), bmpMon, 2, new CombatPartyMember(10, 5, new Bitmap("MonsterSprite.png"))));
+            monsters.Add(new WorldMapMonster(new Point(560,120), bmpMon, 2, new CombatPartyMember(10, 5, new Bitmap("BehemothSprite.png"))));
+            monsters.Add(new WorldMapMonster(new Point(560, 240), bmpMon, 2, new CombatPartyMember(10, 5, new Bitmap("BehemothSprite.png"))));
+            monsters.Add(new WorldMapMonster(new Point(600, 240), bmpMon, 2, new CombatPartyMember(10, 5, new Bitmap("BehemothSprite.png"))));
+            monsters.Add(new WorldMapMonster(new Point(720, 80), new Bitmap("BossMonsterSprite.png"), 2, new CombatPartyMember(100, 15, new Bitmap("BossMonsterSprite.png"))));
 
             friendlyHeroes = new List<WorldMapSprite>();
-            friendlyHeroes.Add(new WorldMapSprite(new Point(120, 0), new Bitmap("rogue2.png"), 3));
+            friendlyHeroes.Add(new WorldMapSprite(new Point(400, 240), new Bitmap("rogue2.png"), 3));
             friendlyHeroes[0].textFileName = "rogueIntro";
 
             textBoxReader = new TextBoxReader();

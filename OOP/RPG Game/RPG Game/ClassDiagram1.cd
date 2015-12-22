@@ -1,2 +1,107 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RPG_Game.ActiveSkill" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ActiveSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.CombatGUI" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAhAAAGgAAAECIECAAQBy0IAQQAEAgCAgAAMAAAA=</HashCode>
+      <FileName>CombatGUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.CombatPartyMember" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACBAQAAAAEAAAAAAACAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>CombatPartyMember.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.MainWindow" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAAAACAAAACAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.Game" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEAQAABAgCAAoAgAiAQAAAAEAQAAAAAAEAQQAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.PlayerParty" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAEgA=</HashCode>
+      <FileName>PlayerParty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.RPG_Game" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>RPG_Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.Skill" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAIAAAAAAAAAAAAAEAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.TextBoxReader" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAAAAAAAAAAAAAAAAAAAAgAAAMCAAAACABAAA=</HashCode>
+      <FileName>TextBoxrRader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.WorldMap" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAEAAgAAAAAAAAAAQAABAAA=</HashCode>
+      <FileName>WorldMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.WorldMapFriend" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAEAAAA=</HashCode>
+      <FileName>WorldMapFriends.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.WorldMapMonster" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAEAAAA=</HashCode>
+      <FileName>WorldMapMonster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.WorldMapSprite" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAggAAAAIAAAACEAAAABAAAEAAAABAAgA=</HashCode>
+      <FileName>WorldMapTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.Properties.Resources" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_Game.Properties.Settings" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
